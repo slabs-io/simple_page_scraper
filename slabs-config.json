@@ -8,7 +8,7 @@
   "hasSettings": true,
   "defaultSettings": {
     "propertyName" : "titles",
-    "siteUrl": "http://www.slabs.io",
+    "siteUrl": "http://slabs.io",
     "cssSelector": "h1"
   },
   "source": {
